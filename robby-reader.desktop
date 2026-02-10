@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Robby Reader
+Comment=Multi-tab PDF Reader
+Exec=python3 /absolute/path/to/robby_reader.py
+Icon=document-pdf
+Terminal=false
+Type=Application
+Categories=Office;Viewer;
