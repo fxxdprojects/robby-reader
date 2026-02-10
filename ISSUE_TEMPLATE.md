@@ -1,0 +1,1 @@
+This is a solo hobby project. Response times may be slow. Please be descriptive!
